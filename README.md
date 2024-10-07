@@ -6,7 +6,7 @@
 
 
 ## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github.com/zaynmodz503/ZENITSU-MD-
+> [Deploy with REPLIT](https://replit.com/@zaynmodz503/ZENITSU-MD-)
 
 
  ### Termux Guide
